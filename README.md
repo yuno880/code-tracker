@@ -22,7 +22,7 @@ Copyright (C) 2026 宇诺 (YuNuo)
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/code-tracker.git
+git clone https://github.com/yuno880/code-tracker.git
 cd code-tracker
 
 # 安装为命令行工具（可选）
