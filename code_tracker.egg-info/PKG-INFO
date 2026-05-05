@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: code-tracker
+Version: 0.1.0
+Summary: 宇诺·跨文件调用追踪引擎 (社区版)
+Home-page: https://github.com/你的用户名/code-tracker
+Author: 赵洪宇 & 诺瓦·迈恩德 (NovaMind)
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+License-File: LICENSE
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
